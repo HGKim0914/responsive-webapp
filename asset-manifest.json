@@ -16,11 +16,5 @@
     "static/media/svg-2.7515737b.svg": "/responsive-webapp/static/media/svg-2.7515737b.svg",
     "static/media/svg-3.3b5ff3a6.svg": "/responsive-webapp/static/media/svg-3.3b5ff3a6.svg",
     "static/media/video.5e99e701.mp4": "/responsive-webapp/static/media/video.5e99e701.mp4"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.7317fd43.js",
-    "static/js/2.df769895.chunk.js",
-    "static/css/main.3c6ef38f.chunk.css",
-    "static/js/main.99f8938b.chunk.js"
-  ]
+  }
 }
