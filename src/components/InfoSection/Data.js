@@ -7,9 +7,9 @@ export const homeObjOne = {
     lightBg: true, //background color
     lightText: false, //heading font color
     lightTextDesc: false, //description font color
-    topLine: 'Premium Bank',
-    headline: 'Unlimited Transaction with zero fees',
-    description: 'Get access to out exclusive app that allows you to send unlimited transactions without getting charged any fees',
+    topLine: 'Premium Delivery',
+    headline: 'Tracking your parcels with your fingerprint',
+    description: 'Get access to our exclusive app that allows you to track your parcels only with your fingerprint login.',
     buttonLabel: 'Get Started',
     imgStart: false, //img start first or not
     img: svg1,
@@ -23,9 +23,9 @@ export const homeObjTwo = {
     lightBg: false, //background color
     lightText: true, //heading font color
     lightTextDesc: true, //description font color
-    topLine: 'Unlimited Access',
-    headline: 'Login to your account at any time',
-    description: 'We have you covered no matter where you are located. All you need is an internet connection and a phone or computer.',
+    topLine: 'Corporate Account',
+    headline: 'Make your schedule simple and easy',
+    description: 'Open a corporate account with credit term and get as least 20% discount for next 10 shippings.',
     buttonLabel: 'Learn More',
     imgStart: true, //img start first or not
     img: svg2,
@@ -39,8 +39,8 @@ export const homeObjThree = {
     lightBg: true, //background color
     lightText: false, //heading font color
     lightTextDesc: false, //description font color
-    topLine: 'Join our Team',
-    headline: 'Creating and account is extremely easy',
+    topLine: 'Join our membership',
+    headline: 'Creating an account is extremely easy',
     description: 'Get everything set up and ready in under 10 minutes. All you need to do is add your information and you are ready to go',
     buttonLabel: 'Start Now',
     imgStart: false, //img start first or not

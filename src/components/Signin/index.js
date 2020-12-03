@@ -7,7 +7,7 @@ const SignIn = () => {
             <Container>
                 <FormWrap>
 
-                    <Icon to="/">dolla</Icon>
+                    <Icon to="/">PackThru</Icon>
 
                     <FormContent>
                         <Form action="#">

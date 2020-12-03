@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Video from '../../videos/video.mp4';
+import Video from '../../videos/arcade.mp4';
 import {Button} from '../ButtonElements';
 import {HeroContainer, HeroBg, VideoBg, HeroContent, HeroH1, HeroP, HeroBtnWrapper, ArrowForward, ArrowRight} from "./HeroElements";
 
@@ -20,8 +20,8 @@ const HeroSection = () => {
 
             <HeroContent>
 
-                <HeroH1>Virtual Banking Made Easy</HeroH1>
-                <HeroP>Sign up for new account today and receive $250 in credit towards your next payment.</HeroP>
+                <HeroH1>Make Delivery Fast and Easy</HeroH1>
+                <HeroP>Sign up for rocket delivery membership and receive $150 of credit for your future delivery.</HeroP>
 
                 <HeroBtnWrapper>
                     <Button 
