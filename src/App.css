@@ -6,7 +6,7 @@
 }
 
 /*for custom scrollbar*/
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 17px;
 }
 
@@ -16,9 +16,9 @@
 
 ::-webkit-scrollbar-thumb {
   background: url('./img/rocket.png') no-repeat;
-}
+} */
 
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
   width: 0.4rem;
 }
 
@@ -29,7 +29,7 @@
 ::-webkit-scrollbar-thumb {
   background: #01bf71;
   border-radius: 10px;
-} */
+}
 
 /* ::-webkit-scrollbar-track-piece:end {
   background: linear-gradient(180deg, transparent, #01bf71 50%, #01bf71);
