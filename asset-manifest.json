@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/responsive-webapp/static/css/main.3c6ef38f.chunk.css",
-    "main.js": "/responsive-webapp/static/js/main.9b55fc87.chunk.js",
-    "main.js.map": "/responsive-webapp/static/js/main.9b55fc87.chunk.js.map",
+    "main.css": "/responsive-webapp/static/css/main.e3fcd220.chunk.css",
+    "main.js": "/responsive-webapp/static/js/main.84683167.chunk.js",
+    "main.js.map": "/responsive-webapp/static/js/main.84683167.chunk.js.map",
     "runtime-main.js": "/responsive-webapp/static/js/runtime-main.7317fd43.js",
     "runtime-main.js.map": "/responsive-webapp/static/js/runtime-main.7317fd43.js.map",
     "static/js/2.8408d1fd.chunk.js": "/responsive-webapp/static/js/2.8408d1fd.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.924be1df.chunk.js": "/responsive-webapp/static/js/3.924be1df.chunk.js",
     "static/js/3.924be1df.chunk.js.map": "/responsive-webapp/static/js/3.924be1df.chunk.js.map",
     "index.html": "/responsive-webapp/index.html",
-    "static/css/main.3c6ef38f.chunk.css.map": "/responsive-webapp/static/css/main.3c6ef38f.chunk.css.map",
+    "static/css/main.e3fcd220.chunk.css.map": "/responsive-webapp/static/css/main.e3fcd220.chunk.css.map",
     "static/js/2.8408d1fd.chunk.js.LICENSE.txt": "/responsive-webapp/static/js/2.8408d1fd.chunk.js.LICENSE.txt",
     "static/media/arcade.0a63f386.mp4": "/responsive-webapp/static/media/arcade.0a63f386.mp4",
     "static/media/svg-1.3b5ff3a6.svg": "/responsive-webapp/static/media/svg-1.3b5ff3a6.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.7317fd43.js",
     "static/js/2.8408d1fd.chunk.js",
-    "static/css/main.3c6ef38f.chunk.css",
-    "static/js/main.9b55fc87.chunk.js"
+    "static/css/main.e3fcd220.chunk.css",
+    "static/js/main.84683167.chunk.js"
   ]
 }
