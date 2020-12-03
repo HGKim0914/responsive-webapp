@@ -31,7 +31,7 @@ const Navbar = ({toggle}) => {
                 <NavbarContainer>
 
                     {/*header logo*/}
-                    <NavLogo onClick={toggleHome}>PackThru</NavLogo>
+                    <NavLogo onClick={toggleHome}>PacThru</NavLogo>
 
                     {/*Menu Icon for small screen size*/}
                     <MobileIcon onClick={toggle}>

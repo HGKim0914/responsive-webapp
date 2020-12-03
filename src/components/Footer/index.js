@@ -87,8 +87,8 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
 
-                        <SocialLogo to='/' onClick={toggleHome}>PackThru</SocialLogo>
-                        <WebsiteRights>PackThru © {new Date().getFullYear()} all rights reserved.</WebsiteRights>
+                        <SocialLogo to='/' onClick={toggleHome}>PacThru</SocialLogo>
+                        <WebsiteRights>PacThru © {new Date().getFullYear()} all rights reserved.</WebsiteRights>
 
                         <SocialIcons>
 
