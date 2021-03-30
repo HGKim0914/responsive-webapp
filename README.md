@@ -7,7 +7,7 @@ https://hgkim0914.github.io/responsive-webapp/#/
 어떠한 크기의 기기에서도 불편함 없이 작동할 수 있도록 Responsive 하게 제작하였습니다.
 
 ## 사용 언어
-JavaScript [React -(Styled-Component], HTML, CSS
+JavaScript [React - Styled-Component], HTML, CSS
 
 ## 제작 기간
 2020.11.03 - 2020.12.01
