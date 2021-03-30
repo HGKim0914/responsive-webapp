@@ -13,3 +13,4 @@ JavaScript [React - Styled-Component], HTML, CSS
 2020.11.03 - 2020.12.01
 
 ## 제작 인원
+단독 제작
